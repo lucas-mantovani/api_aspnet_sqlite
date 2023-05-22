@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug\\net5.0\\ref",
+    "\\bin\\Release\\net5.0",
+    "\\Data",
+    "\\Models"
+  ],
+  "SelectedNode": "\\Models\\Todo.cs",
+  "PreviewInSolutionExplorer": false
+}
